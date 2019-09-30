@@ -29,7 +29,7 @@ You will also see any lint errors in the console.
 
 ### deployed app on the heroku
 
-open this link to open the app in heroku :(https://video-streamer-anjubora.herokuapp.com/>) 
+open this link to open the app in heroku :(https://video-streamer-anjubora.herokuapp.com) 
 
 
 
