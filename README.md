@@ -1,18 +1,25 @@
+# About Project
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
-It is an video streaming app built on react.It uses the google API(YouTube Data API v3).
+It is an video streaming app built on react.<br/>
+It uses the google API(YouTube Data API v3).
 
 ## Common setup
 
-###  clone the repo  :
+###  Clone the repo  :
 
 `git clone https://github.com/anjuboura1997/react_videoStreamingApp.git`
-### install the dependencies :
+### Change the directory :
+
+`cd react_videoStreamingApp`
+
+### Install the dependencies :
 
 `npm install`
 
 ### Add you api key in the .env file :
  
- make the .env file and paste the api key:
+ Make the .env file at the root level  and paste the api key:
 
 `REACT_APP_YOUTUBE_API_KEY=your api key`
 
