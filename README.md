@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
 It is an video streaming app built on react.<br/>
-It uses the google API(YouTube Data API v3).
+- It uses the google API(YouTube Data API v3) for video streaming
+- HTML,CSS,Bootstrap for making UI
+
 
 ## Common setup
 
@@ -37,9 +39,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### deployed app on the heroku
+### Deployed app on the heroku
 
-open this link to open the app in heroku :(https://video-streamer-anjubora.herokuapp.com) 
+Open this link to open the app in heroku :(https://video-streamer-anjubora.herokuapp.com) 
 
 
 
